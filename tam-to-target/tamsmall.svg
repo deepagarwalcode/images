@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+
+  
+  <defs id="defs138718"/>
+  <linearGradient id="3d_gradient2-logo-b0a4cfbb-f9f9-4845-be4a-eacb86f70815" x1="30%" y1="120%" x2="-10%" y2="30%" spreadMethod="pad">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="1" id="stop138695"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="1" id="stop138697"/>
+  </linearGradient>
+  <linearGradient id="3d_gradient3-logo-b0a4cfbb-f9f9-4845-be4a-eacb86f70815" x1="30%" y1="120%" x2="-10%" y2="30%" spreadMethod="pad" gradientTransform="rotate(-30)">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="1" id="stop138700"/>
+    <stop offset="50%" stop-color="#cccccc" stop-opacity="1" id="stop138702"/>
+    <stop offset="100%" stop-color="#000000" stop-opacity="1" id="stop138704"/>
+  </linearGradient>
+  <path id="path138789" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 36 Regular';font-variant-ligatures:normal;text-align:center;text-anchor:middle;fill:#f1f0ec;stroke:#f1f0ec;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:2" d="M 103.25715,58.857156 V 57.142871 H 42.914296 V 40.000014 H 157.08572 v 17.142857 h -46.8 V 160.00001 H 89.714295 V 74.285727 c 0,-7.371428 2.914285,-15.428571 13.542855,-15.428571 z" stroke-miterlimit="2"/>
+
+</svg>
